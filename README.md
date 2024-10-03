@@ -19,6 +19,26 @@
 	</ul>
 </div>
 
+<h2>🌐 Visit My Social Side</h2>
+<div align="center">
+	<a href="https://github.com/PandeyAdi-GZ" style="margin: 0 0.5rem" target="_blank">
+		<img src="https://img.shields.io/static/v1?logo=github&label=&message=GitHub&logoColor=white&labelColor=000000&color=252525&style=for-the-badge" height="30" alt="GitHub" />
+		<!-- <img src="https://i.postimg.cc/JhTcntfM/github.png" height="100" alt="GitHub" /> -->
+	</a>
+	<a href="https://www.linkedin.com/in/adipandey160903" style="margin: 0 0.5rem" target="_blank">
+		<img src="https://img.shields.io/static/v1?logo=linkedin&label=&message=LinkedIn&logoColor=white&labelColor=0274b3&color=239ae3&style=for-the-badge" height="30" alt="LinkedIn" />
+		<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="100" alt="LinkedIn" /> -->
+	</a>
+	<a href="https://www.youtube.com/@GameZonedYT" style="margin: 0 0.5rem" target="_blank">
+		<img src="https://img.shields.io/static/v1?logo=youtube&label=&message=YouTube&logoColor=white&labelColor=c70000&color=ff0000&style=for-the-badge" height="30" alt="YouTube" />
+		<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" height="100" alt="YouTube" /> -->
+	</a>
+	<a href="https://aditya-pandey.vercel.app" style="margin: 0 0.5rem" target="_blank">
+		<img src="https://img.shields.io/static/v1?logo=about.me&label=&message=Portfolio&logoColor=black&labelColor=FFA500&color=E5FF47&style=for-the-badge" height="30" alt="Portfolio" />
+		<!-- <img src="https://i.postimg.cc/P5RZzv06/logo.png" height="100" alt="Portfolio" /> -->
+	</a>
+</div>
+
 <h2 align="justify">🧑‍💻 Languages</h2>
 <div align="left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -88,26 +108,6 @@
 			/>
 		</a>
 	</p>
-</div>
-
-<h2>🌐 Visit My Social Side</h2>
-<div align="center">
-	<a href="https://github.com/PandeyAdi-GZ" style="margin: 0 0.5rem" target="_blank">
-		<img src="https://img.shields.io/static/v1?logo=github&label=&message=GitHub&logoColor=white&labelColor=000000&color=252525&style=for-the-badge" height="30" alt="GitHub" />
-		<!-- <img src="https://i.postimg.cc/JhTcntfM/github.png" height="100" alt="GitHub" /> -->
-	</a>
-	<a href="https://www.linkedin.com/in/adipandey160903" style="margin: 0 0.5rem" target="_blank">
-		<img src="https://img.shields.io/static/v1?logo=linkedin&label=&message=LinkedIn&logoColor=white&labelColor=0274b3&color=239ae3&style=for-the-badge" height="30" alt="LinkedIn" />
-		<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="100" alt="LinkedIn" /> -->
-	</a>
-	<a href="https://www.youtube.com/@GameZonedYT" style="margin: 0 0.5rem" target="_blank">
-		<img src="https://img.shields.io/static/v1?logo=youtube&label=&message=YouTube&logoColor=white&labelColor=c70000&color=ff0000&style=for-the-badge" height="30" alt="YouTube" />
-		<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" height="100" alt="YouTube" /> -->
-	</a>
-	<a href="https://aditya-pandey.vercel.app" style="margin: 0 0.5rem" target="_blank">
-		<img src="https://img.shields.io/static/v1?logo=about.me&label=&message=Portfolio&logoColor=black&labelColor=FFA500&color=E5FF47&style=for-the-badge" height="30" alt="Portfolio" />
-		<!-- <img src="https://i.postimg.cc/P5RZzv06/logo.png" height="100" alt="Portfolio" /> -->
-	</a>
 </div>
 
 
