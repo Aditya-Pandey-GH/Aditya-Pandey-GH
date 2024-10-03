@@ -1,4 +1,110 @@
-## Hi there 👋
+<h1 align="center">Aditya Pandey 👋</h1>
+
+<div align="center">
+	<img src="https://aditya-pandey.vercel.app/assets/pfp-ZN2anXOW.jpg" height="200" />
+	<!-- <div align="center">
+		<img src="https://visitor-badge.laobi.icu/badge?page_id=PandeyAdi-GZ.Aditya-Pandey" height="30" />
+	</div> -->
+	<br />
+</div>
+
+<h2 align="justify">👋 Welcome Note</h2>
+<div align="justify">
+	<ul>
+		<li>Hey professionals 👋. My name is Aditya Pandey.</li>
+		<li>I am a BCA graduate, and have the knowledge of making web applications 🌐.</li>
+		<li>Other than that, I also have knowledge of various concepts like graphic designing 🖼️ and video editing 📹.</li>
+		<li>I am aspiring to be a professional game developer 🎮 in near future, to be able to lead the market and industry with my professionalism.</li>
+	</ul>
+</div>
+
+<h2 align="justify">🧑‍💻 Languages</h2>
+<div align="left">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+	<img width="12" />
+	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
+	<img width="12" /> -->
+</div>
+
+<h2 align="justify">🛠 Tools</h2>
+<div align="justify">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+	<img width="12" />
+	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+	<img width="12" /> -->
+</div>
+
+<h2 align="justify">🛢 Databases</h2>
+<div align="justify">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
+	<img width="12" />
+</div>
+
+<h2 align="justify">📊 My Stats</h2>
+<div align="center">
+	<p>
+		<a href="https://github.com/ryo-ma/github-profile-trophy">
+			<img src="https://github-profile-trophy.vercel.app/?username=PandeyAdi-GZ&theme=monokai&bg_color=151515&margin-w=15" alt="GitHub Trophies" />
+		</a>
+	</p>
+	<p>
+		<a href="https://git.io/streak-stats">
+			<img src="https://streak-stats.demolab.com?user=PandeyAdi-GZ&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+		</a>
+	</p>
+	<p>
+		<a href="https://github.com/anuraghazra/github-readme-stats">
+			<img
+				src="https://github-readme-stats.vercel.app/api/top-langs?username=PandeyAdi-GZ&exclude_repo=Health-Elevator&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact"
+				alt="Skill Set"
+			/>
+		</a>
+	</p>
+</div>
+
+<h2>🌐 Meet My Social Side</h2>
+<div align="center">
+	<a href="https://github.com/PandeyAdi-GZ" style="margin: 0 0.5rem" target="_blank">
+		<img src="https://img.shields.io/static/v1?logo=github&label=&message=GitHub&logoColor=white&labelColor=000000&color=252525&style=for-the-badge" height="30" alt="GitHub" />
+		<!-- <img src="https://i.postimg.cc/JhTcntfM/github.png" height="100" alt="GitHub" /> -->
+	</a>
+	<a href="https://www.linkedin.com/in/adipandey160903" style="margin: 0 0.5rem" target="_blank">
+		<img src="https://img.shields.io/static/v1?logo=linkedin&label=&message=LinkedIn&logoColor=white&labelColor=0274b3&color=239ae3&style=for-the-badge" height="30" alt="LinkedIn" />
+		<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="100" alt="LinkedIn" /> -->
+	</a>
+	<a href="https://www.youtube.com/@GameZonedYT" style="margin: 0 0.5rem" target="_blank">
+		<img src="https://img.shields.io/static/v1?logo=youtube&label=&message=YouTube&logoColor=white&labelColor=c70000&color=ff0000&style=for-the-badge" height="30" alt="YouTube" />
+		<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" height="100" alt="YouTube" /> -->
+	</a>
+	<a href="https://aditya-pandey.vercel.app" style="margin: 0 0.5rem" target="_blank">
+		<img src="https://img.shields.io/static/v1?logo=about.me&label=&message=Portfolio&logoColor=black&labelColor=FFA500&color=E5FF47&style=for-the-badge" height="30" alt="Portfolio" />
+		<!-- <img src="https://i.postimg.cc/P5RZzv06/logo.png" height="100" alt="Portfolio" /> -->
+	</a>
+</div>
+
+
 
 <!--
 **AdiBhaiya/AdiBhaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
