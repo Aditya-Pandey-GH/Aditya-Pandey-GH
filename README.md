@@ -2,18 +2,20 @@
 
 <div align="center">
 	<img src="https://aditya-pandey.vercel.app/assets/pfp-ZN2anXOW.jpg" height="200" />
-<!-- 	<p> <img src="https://visitor-badge.laobi.icu/badge?page_id=PandeyAdi-GZ.Aditya-Pandey" height="30" /> </p> -->
+<!--  	<p> <img src="https://visitor-badge.laobi.icu/badge?page_id=PandeyAdi-GZ.Aditya-Pandey" height="30" /> </p> -->
 	<p> <img src="https://komarev.com/ghpvc/?username=adibhaiya&label=Profile%20views&color=0e75b6&style=flat" alt="adibhaiya" height="25" /> </p>
 	<br />
 </div>
 
 <h2 align="justify">👋 Welcome Note</h2>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder" width="180" />
 <div align="justify">
 	<ul>
 		<li>Hey professionals 👋. My name is Aditya Pandey.</li>
-		<li>I am a BCA graduate, and have the knowledge of making web applications 🌐.</li>
-		<li>Other than that, I also have knowledge of various concepts like graphic designing 🖼️ and video editing 📹.</li>
-		<li>I am aspiring to be a professional game developer 🎮 in near future, to be able to lead the market and industry with my professionalism.</li>
+		<li>I am a BCA graduate.</li>
+		<li>I have the knowledge of making web applications 🌐.</li>
+		<li>I have knowledge of various concepts like designing 🖼️.</li>
+		<li>I am aspiring to be a professional game developer 🎮.</li>
 	</ul>
 </div>
 
