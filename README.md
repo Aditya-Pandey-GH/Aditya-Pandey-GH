@@ -1,7 +1,7 @@
 <h1 align="center">Aditya Pandey 👋</h1>
 
 <div align="center">
-	<img src="https://aditya-pandey.vercel.app/assets/pfp-ZN2anXOW.jpg" height="200" />
+	<img src="https://aditya-pandey.vercel.app/assets/pfp-DFfy38AP.png" height="200" />
 <!--  	<p> <img src="https://visitor-badge.laobi.icu/badge?page_id=PandeyAdi-GZ.Aditya-Pandey" height="30" /> </p> -->
 	<p> <img src="https://komarev.com/ghpvc/?username=adibhaiya&label=Profile%20views&color=0e75b6&style=flat" alt="adibhaiya" height="25" /> </p>
 	<br />
