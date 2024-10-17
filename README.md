@@ -1,11 +1,12 @@
-<h1 align="center">Aditya Pandey 👋</h1>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGfVKHAzREljw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729174017404?e=1734566400&v=beta&t=u-08FC7oG_hmgF32rDs1MqQlBrJVbghKj0Ibm3hdOGY" alt="Header Photo" />
+<!-- <h1 align="center">Aditya Pandey 👋</h1> -->
 
-<div align="center">
+<!-- <div align="center">
 	<img src="https://aditya-pandey.vercel.app/assets/pfp-DFfy38AP.png" height="200" />
-<!--  	<p> <img src="https://visitor-badge.laobi.icu/badge?page_id=PandeyAdi-GZ.Aditya-Pandey" height="30" /> </p> -->
+<p> <img src="https://visitor-badge.laobi.icu/badge?page_id=PandeyAdi-GZ.Aditya-Pandey" height="30" /> </p>
 	<p> <img src="https://komarev.com/ghpvc/?username=adibhaiya&label=Profile%20views&color=0e75b6&style=flat" alt="adibhaiya" height="25" /> </p>
 	<br />
-</div>
+</div> -->
 
 <h2 align="justify">👋 Welcome Note</h2>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder" width="180" />
@@ -19,8 +20,8 @@
 	</ul>
 </div>
 
-<h2>🌐 Visit My Social Side</h2>
-<div align="center">
+<h2>🌐 Find Me At</h2>
+<div>
 	<a href="https://github.com/PandeyAdi-GZ" style="margin: 0 0.5rem" target="_blank">
 		<img src="https://img.shields.io/static/v1?logo=github&label=&message=GitHub&logoColor=white&labelColor=000000&color=252525&style=for-the-badge" height="30" alt="GitHub" />
 		<!-- <img src="https://i.postimg.cc/JhTcntfM/github.png" height="100" alt="GitHub" /> -->
@@ -84,7 +85,8 @@
 </div>
 
 <h2 align="justify">📊 My Stats</h2>
-<div align="center">
+<div align="justify">
+	<p> <img src="https://komarev.com/ghpvc/?username=adibhaiya&label=Profile%20views&color=0e75b6&style=flat" alt="adibhaiya" height="25" /> </p>
 	<p>
 		<a href="https://github.com/ryo-ma/github-profile-trophy">
 			<img src="https://github-profile-trophy.vercel.app/?username=AdiBhaiya&theme=monokai&bg_color=151515&margin-w=15" alt="GitHub Trophies" />
