@@ -4,7 +4,7 @@
 <!-- <div align="center">
 	<img src="https://aditya-pandey.vercel.app/assets/pfp-DFfy38AP.png" height="200" />
 <p> <img src="https://visitor-badge.laobi.icu/badge?page_id=PandeyAdi-GZ.Aditya-Pandey" height="30" /> </p>
-	<p> <img src="https://komarev.com/ghpvc/?username=adibhaiya&label=Profile%20views&color=0e75b6&style=flat" alt="adibhaiya" height="25" /> </p>
+	<p> <img src="https://komarev.com/ghpvc/?username=AdiPGHub&label=Profile%20views&color=0e75b6&style=flat" alt="AdiPGHub" height="25" /> </p>
 	<br />
 </div> -->
 
@@ -88,26 +88,26 @@
 
 <h2 align="justify">📊 My Stats</h2>
 <div align="justify">
-	<p> <img src="https://komarev.com/ghpvc/?username=adibhaiya&label=Profile%20views&color=0e75b6&style=flat" alt="adibhaiya" height="25" /> </p>
+	<p> <img src="https://komarev.com/ghpvc/?username=AdiPGHub&label=Profile%20views&color=0e75b6&style=flat" alt="AdiPGHub" height="25" /> </p>
 	<p>
 		<a href="https://github.com/ryo-ma/github-profile-trophy">
-			<img src="https://github-profile-trophy.vercel.app/?username=AdiBhaiya&theme=monokai&bg_color=151515&margin-w=15" alt="GitHub Trophies" />
+			<img src="https://github-profile-trophy.vercel.app/?username=AdiPGHub&theme=monokai&bg_color=151515&margin-w=15" alt="GitHub Trophies" />
 		</a>
 	</p>
 	<p>
 		<a href="https://git.io/streak-stats">
-			<img src="https://streak-stats.demolab.com?user=AdiBhaiya&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+			<img src="https://streak-stats.demolab.com?user=AdiPGHub&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 		</a>
 	</p>
 	<p>
 		<a href="https://github.com/anuraghazra/github-readme-stats">
-			<img src="https://github-readme-stats.vercel.app/api?username=adibhaiya&theme=gruvbox&bg_color=151515&show_icons=true&locale=en" alt="GitHub Stats" />
+			<img src="https://github-readme-stats.vercel.app/api?username=AdiPGHub&theme=gruvbox&bg_color=151515&show_icons=true&locale=en" alt="GitHub Stats" />
 		</a>
 	</p>
 	<p>
 		<a href="https://github.com/anuraghazra/github-readme-stats">
 			<img
-				src="https://github-readme-stats.vercel.app/api/top-langs?username=AdiBhaiya&exclude_repo=Health-Elevator&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact"
+				src="https://github-readme-stats.vercel.app/api/top-langs?username=AdiPGHub&exclude_repo=Health-Elevator&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact"
 				alt="Skill Set"
 			/>
 		</a>
@@ -117,7 +117,7 @@
 
 
 <!--
-**AdiBhaiya/AdiBhaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AdiPGHub/AdiPGHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
