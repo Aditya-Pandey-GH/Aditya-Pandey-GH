@@ -27,15 +27,15 @@
 <div>
 <!-- 	<a href="https://github.com/AdiPGHub" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/github.svg" height="40" alt="GitHub" /></a>
 	<img width="12" /> -->
-	<a href="https://adipandey.vercel.app" target="_blank"><img src="https://adipandey.vercel.app/logo_round.svg" height="40" alt="Portfolio" /></a>
+	<a href="https://adipandey.vercel.app" target="_blank"><img src="https://adipandey.vercel.app/logo_round.svg" target="_blank" height="40" alt="Portfolio" /></a>
 	<img width="12" />
-	<a href="https://www.linkedin.com/in/adipin" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn" /></a>
+	<a href="https://www.linkedin.com/in/adipin" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" target="_blank" height="40" alt="LinkedIn" /></a>
 	<img width="12" />
-	<a href="https://leetcode.com/u/AdiPLCode" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/leet-code.svg" height="40" alt="YouTube" /></a>
+	<a href="https://leetcode.com/u/AdiPLCode" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/leet-code.svg" target="_blank" height="40" alt="YouTube" /></a>
 	<img width="12" />
-	<a href="https://www.youtube.com/@GameZonedYT" target="_blank"><img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Logos/youtube.svg" height="40" alt="YouTube" /></a>
+	<a href="https://www.youtube.com/@GameZonedYT" target="_blank"><img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Logos/youtube.svg" target="_blank" height="40" alt="YouTube" /></a>
 	<img width="12" />
-	<a href="https://www.instagram.com/adip.ig" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/instagram.svg" height="40" alt="YouTube" /></a>
+	<a href="https://www.instagram.com/adip.ig" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/instagram.svg" target="blank" height="40" alt="YouTube" /></a>
 	<img width="12" />
 <!-- 		<img src="https://img.shields.io/static/v1?logo=about.me&label=&message=Portfolio&logoColor=black&labelColor=FFA500&color=E5FF47&style=for-the-badge" height="40" alt="Portfolio" /> -->
 		<!-- <img src="https://i.postimg.cc/P5RZzv06/logo.png" height="100" alt="Portfolio" /> -->
