@@ -1,4 +1,5 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGfVKHAzREljw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729174017404?e=1740009600&v=beta&t=mCDzx1GKDsqh8JRCdycaXG0zG9eHZKdxUeZtyGgXOVg" alt="Header Photo" />
+<img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Cover%20Art.svg" alt="Header Photo" />
+<!-- <img src="https://media.licdn.com/dms/image/v2/D5616AQGfVKHAzREljw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729174017404?e=1740009600&v=beta&t=mCDzx1GKDsqh8JRCdycaXG0zG9eHZKdxUeZtyGgXOVg" alt="Header Photo" /> -->
 <!-- <h1 align="center">Aditya Pandey 👋</h1> -->
 
 <!-- <div align="center">
@@ -26,7 +27,7 @@
 <div>
 <!-- 	<a href="https://github.com/AdiPGHub" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/github.svg" height="40" alt="GitHub" /></a>
 	<img width="12" /> -->
-	<a href="https://adipandey.vercel.app" target="_blank"><img src="https://i.postimg.cc/3RGr13K4/portfolio.png" height="40" alt="Portfolio" /></a>
+	<a href="https://adipandey.vercel.app" target="_blank"><img src="https://adipandey.vercel.app/logo_round.svg" height="40" alt="Portfolio" /></a>
 	<img width="12" />
 	<a href="https://www.linkedin.com/in/adipin" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn" /></a>
 	<img width="12" />
@@ -42,13 +43,13 @@
 
 <h2 align="justify">🧑‍💻 Languages</h2>
 <div align="left">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
 	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
 	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 	<img width="12" />
@@ -64,22 +65,22 @@
 
 <h2 align="justify">🛠 Frameworks</h2>
 <div align="justify">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" />
-	<img width="12" />
-	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-	<img width="12" /> -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" />
 	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="ViteJS" />
 	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="ExpressJS" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
+	<img width="12" />
+	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+	<img width="12" /> -->
 </div>
 
 <h2 align="justify">🛢 Databases</h2>
