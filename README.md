@@ -24,22 +24,20 @@
 
 <h2>🌐 Find Me At</h2>
 <div>
-	<a href="https://github.com/PandeyAdi-GZ" style="margin: 0 0.5rem" target="_blank">
-		<img src="https://img.shields.io/static/v1?logo=github&label=&message=GitHub&logoColor=white&labelColor=000000&color=252525&style=for-the-badge" height="30" alt="GitHub" />
-		<!-- <img src="https://i.postimg.cc/JhTcntfM/github.png" height="100" alt="GitHub" /> -->
-	</a>
-	<a href="https://www.linkedin.com/in/adipandey160903" style="margin: 0 0.5rem" target="_blank">
-		<img src="https://img.shields.io/static/v1?logo=linkedin&label=&message=LinkedIn&logoColor=white&labelColor=0274b3&color=239ae3&style=for-the-badge" height="30" alt="LinkedIn" />
-		<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="100" alt="LinkedIn" /> -->
-	</a>
-	<a href="https://www.youtube.com/@GameZonedYT" style="margin: 0 0.5rem" target="_blank">
-		<img src="https://img.shields.io/static/v1?logo=youtube&label=&message=YouTube&logoColor=white&labelColor=c70000&color=ff0000&style=for-the-badge" height="30" alt="YouTube" />
-		<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" height="100" alt="YouTube" /> -->
-	</a>
-	<a href="https://aditya-pandey.vercel.app" style="margin: 0 0.5rem" target="_blank">
-		<img src="https://img.shields.io/static/v1?logo=about.me&label=&message=Portfolio&logoColor=black&labelColor=FFA500&color=E5FF47&style=for-the-badge" height="30" alt="Portfolio" />
+<!-- 	<a href="https://github.com/AdiPGHub" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/github.svg" height="40" alt="GitHub" /></a>
+	<img width="12" /> -->
+	<a href="https://adipandey.vercel.app" target="_blank"><img src="https://i.postimg.cc/3RGr13K4/portfolio.png" height="40" alt="Portfolio" /></a>
+	<img width="12" />
+	<a href="https://www.linkedin.com/in/adipin" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn" /></a>
+	<img width="12" />
+	<a href="https://leetcode.com/u/AdiPLCode" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/leet-code.svg" height="40" alt="YouTube" /></a>
+	<img width="12" />
+	<a href="https://www.youtube.com/@GameZonedYT" target="_blank"><img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Logos/youtube.svg" height="40" alt="YouTube" /></a>
+	<img width="12" />
+	<a href="https://www.instagram.com/adip.ig" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/instagram.svg" height="40" alt="YouTube" /></a>
+	<img width="12" />
+<!-- 		<img src="https://img.shields.io/static/v1?logo=about.me&label=&message=Portfolio&logoColor=black&labelColor=FFA500&color=E5FF47&style=for-the-badge" height="40" alt="Portfolio" /> -->
 		<!-- <img src="https://i.postimg.cc/P5RZzv06/logo.png" height="100" alt="Portfolio" /> -->
-	</a>
 </div>
 
 <h2 align="justify">🧑‍💻 Languages</h2>
