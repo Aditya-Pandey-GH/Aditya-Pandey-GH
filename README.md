@@ -27,7 +27,7 @@
 <div>
 <!-- 	<a href="https://github.com/AdiPGHub" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/github.svg" height="40" alt="GitHub" /></a>
 	<img width="12" /> -->
-	<a href="https://adipandey.vercel.app" target="_blank"><img src="https://adipandey.vercel.app/logo_round.svg" height="40" alt="Portfolio" /></a>
+	<a href="https://adipandey.vercel.app" target="blank"><img src="https://adipandey.vercel.app/logo_round.svg" height="40" alt="Portfolio" /></a>
 	<img width="12" />
 	<a href="https://www.linkedin.com/in/adipin" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn" /></a>
 	<img width="12" />
