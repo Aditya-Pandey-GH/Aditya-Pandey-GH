@@ -25,17 +25,17 @@
 
 <h2>🌐 Find Me At</h2>
 <div>
-<!-- 	<a href="https://github.com/AdiPGHub" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/github.svg" height="40" alt="GitHub" /></a>
+<!-- 	<a href="https://github.com/Aditya-Pandey-GH" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/github.svg" height="40" alt="GitHub" /></a>
 	<img width="12" /> -->
-	<a href="https://adipandey.vercel.app"><img src="https://adipandey.vercel.app/logo_round.svg" height="40" alt="Portfolio" /></a>
+	<a href="https://aditya-pandey.vercel.app" target="_blank"><img src="https://aditya-pandey.vercel.app/logo_round.svg" height="40" alt="Portfolio" /></a>
 	<img width="12" />
-	<a href="https://www.linkedin.com/in/adipin"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn" /></a>
+	<a href="https://www.linkedin.com/in/aditya-pandey-in" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn" /></a>
 	<img width="12" />
-	<a href="https://leetcode.com/u/AdiPLCode"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/leet-code.svg" height="40" alt="LeetCode" /></a>
+	<a href="https://leetcode.com/u/AdiPLCode" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/leet-code.svg" height="40" alt="LeetCode" /></a>
 	<img width="12" />
-	<a href="https://www.youtube.com/@GameZonedYT"><img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Logos/youtube.svg" height="40" alt="YouTube" /></a>
+	<a href="https://www.youtube.com/@GameZonedYT" target="_blank"><img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Logos/youtube.svg" height="40" alt="YouTube" /></a>
 	<img width="12" />
-	<a href="https://www.instagram.com/adip.ig"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/instagram.svg" height="40" alt="Instagram" /></a>
+	<a href="https://www.instagram.com/adipandey.in" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/instagram.svg" height="40" alt="Instagram" /></a>
 	<img width="12" />
 <!-- 		<img src="https://img.shields.io/static/v1?logo=about.me&label=&message=Portfolio&logoColor=black&labelColor=FFA500&color=E5FF47&style=for-the-badge" height="40" alt="Portfolio" /> -->
 		<!-- <img src="https://i.postimg.cc/P5RZzv06/logo.png" height="100" alt="Portfolio" /> -->
@@ -67,9 +67,9 @@
 <div align="justify">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" />
-	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="NextJS" />
 	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="ViteJS" />
 	<img width="12" />
@@ -86,35 +86,35 @@
 <h2 align="justify">🛢 Databases</h2>
 <div align="justify">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-	<img width="12" />
+	<!-- <img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
-	<img width="12" />
+	<img width="12" /> -->
 </div>
 
 <h2 align="justify">📊 My Stats</h2>
 <div align="justify">
-	<p> <img src="https://komarev.com/ghpvc/?username=AdiPGHub&label=Profile%20views&color=0e75b6&style=flat" alt="AdiPGHub" height="25" /> </p>
+	<p> <img src="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH" height="25" /> </p>
 	<p>
 		<a href="https://github.com/ryo-ma/github-profile-trophy">
-			<img src="https://github-profile-trophy.vercel.app/?username=AdiPGHub&theme=monokai&bg_color=151515&margin-w=15" alt="GitHub Trophies" />
+			<img src="https://github-profile-trophy.vercel.app/?username=Aditya-Pandey-GH&theme=monokai&bg_color=151515&margin-w=15" alt="GitHub Trophies" />
 		</a>
 	</p>
 	<p>
 		<a href="https://git.io/streak-stats">
-			<img src="https://streak-stats.demolab.com?user=AdiPGHub&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+			<img src="https://streak-stats.demolab.com?user=Aditya-Pandey-GH&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 		</a>
 	</p>
 	<p>
 		<a href="https://github.com/anuraghazra/github-readme-stats">
-			<img src="https://github-readme-stats.vercel.app/api?username=AdiPGHub&theme=gruvbox&bg_color=151515&show_icons=true&locale=en" alt="GitHub Stats" />
+			<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Pandey-GH&theme=gruvbox&bg_color=151515&show_icons=true&locale=en" alt="GitHub Stats" />
 		</a>
 	</p>
 	<p>
 		<a href="https://github.com/anuraghazra/github-readme-stats">
 			<img
-				src="https://github-readme-stats.vercel.app/api/top-langs?username=AdiPGHub&exclude_repo=Health-Elevator&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact"
+				src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-Pandey-GH&exclude_repo=Health-Elevator-Legacy&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact"
 				alt="Skill Set"
 			/>
 		</a>
