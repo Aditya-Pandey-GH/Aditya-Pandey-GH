@@ -1,3 +1,4 @@
+
 <img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Cover%20Art.svg" alt="Header Photo" />
 <!-- <img src="https://media.licdn.com/dms/image/v2/D5616AQGfVKHAzREljw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729174017404?e=1740009600&v=beta&t=mCDzx1GKDsqh8JRCdycaXG0zG9eHZKdxUeZtyGgXOVg" alt="Header Photo" /> -->
 <!-- <h1 align="center">Aditya Pandey 👋</h1> -->
@@ -95,31 +96,51 @@
 
 <h2 align="justify">📊 My Stats</h2>
 <div align="justify">
-	<p> <img src="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH" height="25" /> </p>
 	<p>
-		<a href="https://github.com/ryo-ma/github-profile-trophy">
+		<a href="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH">
+			<img src="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH" height="25" />
+		</a>
+	</p>
+	<p>
+		<a href="https://github-profile-trophy.vercel.app/?username=Aditya-Pandey-GH&theme=monokai&bg_color=151515&margin-w=15">
 			<img src="https://github-profile-trophy.vercel.app/?username=Aditya-Pandey-GH&theme=monokai&bg_color=151515&margin-w=15" alt="GitHub Trophies" />
 		</a>
 	</p>
 	<p>
-		<a href="https://git.io/streak-stats">
+		<a href="https://streak-stats.demolab.com?user=Aditya-Pandey-GH&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D">
 			<img src="https://streak-stats.demolab.com?user=Aditya-Pandey-GH&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 		</a>
 	</p>
 	<p>
-		<a href="https://github.com/anuraghazra/github-readme-stats">
-			<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Pandey-GH&theme=gruvbox&bg_color=151515&show_icons=true&locale=en" alt="GitHub Stats" />
+		<a href="https://github-readme-stats.vercel.app/api?username=Aditya-Pandey-GH&theme=gruvbox&bg_color=151515&custom_title=GitHub%20Stats&show_icons=true&locale=en">
+			<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Pandey-GH&theme=gruvbox&bg_color=151515&custom_title=GitHub%20Stats&show_icons=true&locale=en" alt="GitHub Stats of Aditya Pandey" />
 		</a>
 	</p>
 	<p>
-		<a href="https://github.com/anuraghazra/github-readme-stats">
-			<img
-				src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-Pandey-GH&exclude_repo=Health-Elevator-Legacy&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact"
-				alt="Skill Set"
-			/>
+		<a href="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-Pandey-GH&exclude_repo=Health-Elevator-Legacy&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact">
+			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-Pandey-GH&exclude_repo=Health-Elevator-Legacy&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact" alt="Skill Set of Aditya Pandey" />
 		</a>
 	</p>
 </div>
+
+<h2 align="justify">©️ Credits</h2>
+<ul align="justify">
+	<li>
+		<a href="https://github.com/antonkomarev/github-profile-views-counter">Profile Views</a>
+	</li>
+	<li>
+		<a href="https://github.com/ryo-ma/github-profile-trophy">GitHub Trophies</a>
+	</li>
+	<li>
+		<a href="https://git.io/streak-stats">GitHub Streak</a>
+	</li>
+	<li>
+		<a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats</a>
+	</li>
+	<li>
+		<a href="https://github.com/anuraghazra/github-readme-stats">Most Used Languages</a>
+	</li>
+</ul>
 
 
 
