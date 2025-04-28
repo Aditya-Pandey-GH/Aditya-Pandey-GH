@@ -14,13 +14,13 @@
 ## 🌐 Find Me At
 
 <div>
-	<a href="https://github.com/Aditya-Pandey-GH" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/github.svg" height="40" alt="GitHub" /></a>
+	<a href="https://github.com/Aditya-Pandey-GH"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/github.svg" height="40" alt="GitHub" /></a>
 	<img width="12" />
 	<a href="https://aditya-pandey.vercel.app"><img src="https://aditya-pandey.vercel.app/logo_round.svg" height="40" alt="Portfolio" /></a>
 	<img width="12" />
 	<a href="https://www.linkedin.com/in/aditya-pandey-in"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn" /></a>
 	<img width="12" />
-	<a href="https://leetcode.com/u/AdiPLCode"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/leet-code.svg" height="40" alt="LeetCode" /></a>
+	<a href="https://leetcode.com/u/Aditya-Pandey-LC"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/leet-code.svg" height="40" alt="LeetCode" /></a>
 	<img width="12" />
 	<a href="https://www.youtube.com/@GameZonedYT"><img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Logos/youtube.svg" height="40" alt="YouTube" /></a>
 	<img width="12" />
