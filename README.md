@@ -66,7 +66,8 @@
 	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="ExpressJS" />
+<!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="ExpressJS" /> -->
+	<img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@latest/Logos/express.svg" height="40" alt="ExpressJS" />
 	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
 	<img width="12" />
