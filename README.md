@@ -14,17 +14,17 @@
 ## 🌐 Find Me At
 
 <div>
-	<a href="https://github.com/Aditya-Pandey-GH"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/github.svg" height="40" alt="GitHub" /></a>
+	<a href="https://aditya-pandey.vercel.app"><img src="https://aditya-pandey.vercel.app/favicon.svg" width="40" height="40" alt="Portfolio" /></a>
 	<img width="12" />
-	<a href="https://aditya-pandey.vercel.app"><img src="https://aditya-pandey.vercel.app/favicon.svg" height="40" alt="Portfolio" /></a>
+	<a href="https://github.com/Aditya-Pandey-GH"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/github.svg" width="40" height="40" alt="GitHub" /></a>
 	<img width="12" />
-	<a href="https://www.linkedin.com/in/aditya-pandey-in"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn" /></a>
+	<a href="https://www.linkedin.com/in/aditya-pandey-in"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" /></a>
 	<img width="12" />
-	<a href="https://leetcode.com/u/Aditya-Pandey-LC"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/leet-code.svg" height="40" alt="LeetCode" /></a>
+	<a href="https://leetcode.com/u/Aditya-Pandey-LC"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode" /></a>
 	<img width="12" />
-	<a href="https://www.youtube.com/@GameZonedYT"><img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Logos/youtube.svg" height="40" alt="YouTube" /></a>
+	<a href="https://www.youtube.com/@GameZonedYT"><img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Logos/youtube.svg" width="40" height="40" alt="YouTube" /></a>
 	<img width="12" />
-	<a href="https://www.instagram.com/adipandey.in"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/instagram.svg" height="40" alt="Instagram" /></a>
+	<a href="https://www.instagram.com/adipandey.in"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram" /></a>
 	<img width="12" />
 	<!-- <img src="https://img.shields.io/static/v1?logo=about.me&label=&message=Portfolio&logoColor=black&labelColor=FFA500&color=E5FF47&style=for-the-badge" height="40" alt="Portfolio" /> -->
 	<!-- <img src="https://i.postimg.cc/P5RZzv06/logo.png" height="100" alt="Portfolio" /> -->
