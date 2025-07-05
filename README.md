@@ -8,11 +8,12 @@
 <!-- <img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" alt="Coder" width="180" /> -->
 <img align="right" src="https://static.vecteezy.com/system/resources/previews/023/485/810/non_2x/web-developer-graphic-clipart-design-free-png.png" alt="Coder" width="120" />
 
-- Web developer with a good command over MERN Stack
-- Tech enthusiast with a keen interest and passion for tech related stuff
-- Good team-worker with coordination skills to adapt quickly with any team
-- Confident speaker, having a good command on my communication skills
-- Aspiring game developer with a passion for developing high quality video games
+- Web developer, having a good command over MERN Stack.
+- Tech enthusiast with a keen interest and passion for tech related stuff.
+- Good team-worker with coordination skills to adapt quickly with any team.
+- Confident speaker, having a good command on my communication skills.
+- Creative person, with an enthusiasm to explore creative fields such as graphic designing and video editing.
+- Aspiring game developer with a passion for developing high quality video games.
 
 
 ## 🧑‍💻 Languages
@@ -121,7 +122,7 @@
 <div align="justify">
 	<p>
 		<a href="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH">
-			<img src="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH" height="25" />
+			<img src="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH" width="150" height="25" />
 		</a>
 	</p>
 	<p>
