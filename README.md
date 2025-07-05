@@ -1,15 +1,100 @@
+
 ![Cover Photo](https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Cover%20Art.svg)
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aditya-Pandey-GH.Aditya-Pandey-GH) -->
 
-## 👋 Welcome Note
 
-<img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" alt="Coder" width="180" />
+## 👋 About Me
 
-- Hey professionals 👋🏻. My name is Aditya Pandey
-- I am a BCA graduate 👨🏻‍🎓
-- I have the knowledge of making web applications 🌐
-- I have the knowledge of creative fields like graphics designing 🖼️ and video editing 📽️
-- I am aspiring to be a professional game developer 🎮
+<!-- <img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" alt="Coder" width="180" /> -->
+<img align="right" src="https://static.vecteezy.com/system/resources/previews/023/485/810/non_2x/web-developer-graphic-clipart-design-free-png.png" alt="Coder" width="120" />
+
+- Web developer with a good command over MERN Stack
+- Tech enthusiast with a keen interest and passion for tech related stuff
+- Good team-worker with coordination skills to adapt quickly with any team
+- Confident speaker, having a good command on my communication skills
+- Aspiring game developer with a passion for developing high quality video games
+
+
+## 🧑‍💻 Languages
+
+<div>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+	<img width="12" />
+	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+	<img width="12" /> -->
+</div>
+
+
+## 🛢 Databases
+
+<div>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+	<!-- <img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
+	<img width="12" /> -->
+</div>
+
+
+## 🛠 Frameworks
+
+<div>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind" />
+	<img width="12" />
+	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJS" />
+	<img width="12" /> -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="ViteJS" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="ReactJS" />
+	<img width="12" />
+<!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="ExpressJS" /> -->
+	<img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@latest/Logos/express.svg" width="40" height="40" alt="ExpressJS" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" />
+	<img width="12" />
+	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+	<img width="12" /> -->
+</div>
+
+
+## 🕹️ Projects
+
+<div>
+	<a href="https://gamezoned.itch.io/flappy-bird"><img src="https://aditya-pandey.vercel.app/projects/games/flappy/Icon.avif" width="75" height="75" alt="Flappy Bird" /></a>
+	<img width="12" />
+	<a href="https://gamezoned.itch.io/partially-true"><img src="https://aditya-pandey.vercel.app/projects/websites/partiallyTrue/Icon.avif" width="75" height="75" alt="Partially True" /></a>
+	<img width="12" />
+	<a href="https://azffoods.com.au"><img src="https://aditya-pandey.vercel.app/projects/websites/azfFoods/Icon.avif" width="75" height="75" alt="AZF Foods" /></a>
+	<img width="12" />
+	<a href="https://evil-simon.vercel.app"><img src="https://aditya-pandey.vercel.app/projects/websites/evilSimon/Icon.avif" width="75" height="75" alt="Evil Simon" /></a>
+	<img width="12" />
+	<a href="https://github.com/Aditya-Pandey-GH/Health-Elevator-Legacy"><img src="https://aditya-pandey.vercel.app/projects/websites/healthElev/Icon.avif" width="75" height="75" alt="Health Elevator" /></a>
+	<img width="12" />
+	<!-- <a href="https://aditya-pandey.vercel.app"><img src="https://aditya-pandey.vercel.app/projects/websites/portfolio/Icon.avif" width="75" height="75" alt="Portfolio Website" /></a>
+	<img width="12" /> -->
+	<a href="https://github.com/Aditya-Pandey-GH/G-12-Plus"><img src="https://aditya-pandey.vercel.app/projects/apps/miniGamesPlus/Icon.avif" width="75" height="75" alt="Mini Games Plus" /></a>
+	<img width="12" /> 
+	<a href="https://github.com/Aditya-Pandey-GH/G-12"><img src="https://aditya-pandey.vercel.app/projects/apps/miniGames/Icon.avif" width="75" height="75" alt="Mini Games" /></a>
+	<img width="12" /> 
+</div>
+
 
 ## 🌐 Find Me At
 
@@ -26,68 +111,12 @@
 	<img width="12" />
 	<a href="https://www.instagram.com/adipandey.in"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram" /></a>
 	<img width="12" />
-	<!-- <img src="https://img.shields.io/static/v1?logo=about.me&label=&message=Portfolio&logoColor=black&labelColor=FFA500&color=E5FF47&style=for-the-badge" height="40" alt="Portfolio" /> -->
+	<!-- <img src="https://img.shields.io/static/v1?logo=about.me&label=&message=Portfolio&logoColor=black&labelColor=FFA500&color=E5FF47&style=for-the-badge" width="40" height="40" alt="Portfolio" /> -->
 	<!-- <img src="https://i.postimg.cc/P5RZzv06/logo.png" height="100" alt="Portfolio" /> -->
 </div>
 
-## 🧑‍💻 Languages
-
-<div>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-	<img width="12" />
-	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
-	<img width="12" /> -->
-</div>
-
-## 🛠 Frameworks
-
-<div>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJS" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="ViteJS" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="ReactJS" />
-	<img width="12" />
-<!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="ExpressJS" /> -->
-	<img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@latest/Logos/express.svg" width="40" height="40" alt="ExpressJS" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" />
-	<img width="12" />
-	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
-	<img width="12" /> -->
-</div>
-
-## 🛢 Databases
-
-<div>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-	<!-- <img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
-	<img width="12" /> -->
-</div>
 
 ## 📊 My Stats
-
 
 <div align="justify">
 	<p>
@@ -116,6 +145,7 @@
 		</a>
 	</p>
 </div>
+
 
 ## ©️ Credits
 
