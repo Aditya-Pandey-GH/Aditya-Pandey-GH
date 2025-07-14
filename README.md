@@ -19,23 +19,23 @@
 ## 🧑‍💻 Languages
 
 <div>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" align="center" alt="HTML5" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" align="center" alt="CSS3" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" align="center" alt="JS" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" align="center" alt="C#" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" align="center" alt="Java" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" align="center" alt="Python" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" align="center" alt="C++" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" align="center" alt="C" />
 	<img width="12" />
-	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" align="center" alt="Dart" />
 	<img width="12" /> -->
 </div>
 
@@ -43,11 +43,11 @@
 ## 🛢 Databases
 
 <div>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" align="center" alt="MongoDB" />
 	<!-- <img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" align="center" alt="MySQL" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" align="center" alt="Oracle" />
 	<img width="12" /> -->
 </div>
 
@@ -55,22 +55,22 @@
 ## 🛠 Frameworks
 
 <div>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" align="center" alt="Unity" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" align="center" alt="Tailwind" />
 	<img width="12" />
-	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJS" />
+	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" align="center" alt="NextJS" />
 	<img width="12" /> -->
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="ViteJS" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" align="center" alt="ViteJS" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="ReactJS" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" align="center" alt="ReactJS" />
 	<img width="12" />
-<!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="ExpressJS" /> -->
-	<img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@latest/Logos/express.svg" width="40" height="40" alt="ExpressJS" />
+<!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" align="center" alt="ExpressJS" /> -->
+	<img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@latest/Logos/express.svg" width="40" height="40" align="center" alt="ExpressJS" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" align="center" alt="NodeJS" />
 	<img width="12" />
-	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" align="center" alt="Flutter" />
 	<img width="12" /> -->
 </div>
 
@@ -78,21 +78,21 @@
 ## 🕹️ Projects
 
 <div>
-	<a href="https://gamezoned.itch.io/flappy-bird"><img src="https://aditya-pandey.vercel.app/projects/games/flappy/Icon.avif" width="75" height="75" alt="Flappy Bird" /></a>
+	<a href="https://gamezoned.itch.io/flappy-bird"><img src="https://aditya-pandey.vercel.app/projects/games/flappy/Icon.avif" width="75" height="75" align="center" alt="Flappy Bird" /></a>
 	<img width="12" />
-	<a href="https://gamezoned.itch.io/partially-true"><img src="https://aditya-pandey.vercel.app/projects/websites/partiallyTrue/Icon.avif" width="75" height="75" alt="Partially True" /></a>
+	<a href="https://gamezoned.itch.io/partially-true"><img src="https://aditya-pandey.vercel.app/projects/websites/partiallyTrue/Icon.avif" width="75" height="75" align="center" alt="Partially True" /></a>
 	<img width="12" />
-	<a href="https://azffoods.com.au"><img src="https://aditya-pandey.vercel.app/projects/websites/azfFoods/Icon.avif" width="75" height="75" alt="AZF Foods" /></a>
+	<a href="https://azffoods.com.au"><img src="https://aditya-pandey.vercel.app/projects/websites/azfFoods/Icon.avif" width="75" height="75" align="center" alt="AZF Foods" /></a>
 	<img width="12" />
-	<a href="https://evil-simon.vercel.app"><img src="https://aditya-pandey.vercel.app/projects/websites/evilSimon/Icon.avif" width="75" height="75" alt="Evil Simon" /></a>
+	<a href="https://evil-simon.vercel.app"><img src="https://aditya-pandey.vercel.app/projects/websites/evilSimon/Icon.avif" width="75" height="75" align="center" alt="Evil Simon" /></a>
 	<img width="12" />
-	<a href="https://github.com/Aditya-Pandey-GH/Health-Elevator-Legacy"><img src="https://aditya-pandey.vercel.app/projects/websites/healthElev/Icon.avif" width="75" height="75" alt="Health Elevator" /></a>
+	<a href="https://github.com/Aditya-Pandey-GH/Health-Elevator-Legacy"><img src="https://aditya-pandey.vercel.app/projects/websites/healthElev/Icon.avif" width="75" height="75" align="center" alt="Health Elevator" /></a>
 	<img width="12" />
-	<!-- <a href="https://aditya-pandey.vercel.app"><img src="https://aditya-pandey.vercel.app/projects/websites/portfolio/Icon.avif" width="75" height="75" alt="Portfolio Website" /></a>
+	<!-- <a href="https://aditya-pandey.vercel.app"><img src="https://aditya-pandey.vercel.app/projects/websites/portfolio/Icon.avif" width="75" height="75" align="center" alt="Portfolio Website" /></a>
 	<img width="12" /> -->
-	<a href="https://github.com/Aditya-Pandey-GH/G-12-Plus"><img src="https://aditya-pandey.vercel.app/projects/apps/miniGamesPlus/Icon.avif" width="75" height="75" alt="Mini Games Plus" /></a>
+	<a href="https://github.com/Aditya-Pandey-GH/G-12-Plus"><img src="https://aditya-pandey.vercel.app/projects/apps/miniGamesPlus/Icon.avif" width="75" height="75" align="center" alt="Mini Games Plus" /></a>
 	<img width="12" /> 
-	<a href="https://github.com/Aditya-Pandey-GH/G-12"><img src="https://aditya-pandey.vercel.app/projects/apps/miniGames/Icon.avif" width="75" height="75" alt="Mini Games" /></a>
+	<a href="https://github.com/Aditya-Pandey-GH/G-12"><img src="https://aditya-pandey.vercel.app/projects/apps/miniGames/Icon.avif" width="75" height="75" align="center" alt="Mini Games" /></a>
 	<img width="12" /> 
 </div>
 
@@ -100,19 +100,19 @@
 ## 🌐 Find Me At
 
 <div>
-	<a href="https://aditya-pandey.vercel.app"><img src="https://aditya-pandey.vercel.app/favicon.svg" width="40" height="40" alt="Portfolio" /></a>
+	<a href="https://aditya-pandey.vercel.app"><img src="https://aditya-pandey.vercel.app/favicon.svg" width="40" height="40" align="center" alt="Portfolio" /></a>
 	<img width="12" />
-	<a href="https://github.com/Aditya-Pandey-GH"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/github.svg" width="40" height="40" alt="GitHub" /></a>
+	<a href="https://github.com/Aditya-Pandey-GH"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/github.svg" width="40" height="40" align="center" alt="GitHub" /></a>
 	<img width="12" />
-	<a href="https://www.linkedin.com/in/aditya-pandey-in"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" /></a>
+	<a href="https://www.linkedin.com/in/aditya-pandey-in"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" align="center" alt="LinkedIn" /></a>
 	<img width="12" />
-	<a href="https://leetcode.com/u/Aditya-Pandey-LC"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode" /></a>
+	<a href="https://leetcode.com/u/Aditya-Pandey-LC"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/leet-code.svg" width="40" height="40" align="center" alt="LeetCode" /></a>
 	<img width="12" />
-	<a href="https://www.youtube.com/@GameZonedYT"><img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Logos/youtube.svg" width="40" height="40" alt="YouTube" /></a>
+	<a href="https://www.youtube.com/@GameZonedYT"><img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Logos/youtube.svg" width="40" height="40" align="center" alt="YouTube" /></a>
 	<img width="12" />
-	<a href="https://www.instagram.com/adipandey.in"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram" /></a>
+	<a href="https://www.instagram.com/adipandey.in"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/instagram.svg" width="40" height="40" align="center" alt="Instagram" /></a>
 	<img width="12" />
-	<!-- <img src="https://img.shields.io/static/v1?logo=about.me&label=&message=Portfolio&logoColor=black&labelColor=FFA500&color=E5FF47&style=for-the-badge" width="40" height="40" alt="Portfolio" /> -->
+	<!-- <img src="https://img.shields.io/static/v1?logo=about.me&label=&message=Portfolio&logoColor=black&labelColor=FFA500&color=E5FF47&style=for-the-badge" width="40" height="40" align="center" alt="Portfolio" /> -->
 	<!-- <img src="https://i.postimg.cc/P5RZzv06/logo.png" height="100" alt="Portfolio" /> -->
 </div>
 
