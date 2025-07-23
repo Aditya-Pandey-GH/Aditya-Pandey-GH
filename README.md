@@ -82,8 +82,8 @@
 	<img width="12" />
 	<a href="https://gamezoned.itch.io/partially-true"><img src="https://aditya-pandey.vercel.app/projects/websites/partiallyTrue/Icon.avif" width="75" height="75" align="center" alt="Partially True" /></a>
 	<img width="12" />
-	<a href="https://azffoods.com.au"><img src="https://aditya-pandey.vercel.app/projects/websites/azfFoods/Icon.avif" width="75" height="75" align="center" alt="AZF Foods" /></a>
-	<img width="12" />
+	<!-- <a href="https://azffoods.com.au"><img src="https://aditya-pandey.vercel.app/projects/websites/azfFoods/Icon.avif" width="75" height="75" align="center" alt="AZF Foods" /></a>
+	<img width="12" /> -->
 	<a href="https://evil-simon.vercel.app"><img src="https://aditya-pandey.vercel.app/projects/websites/evilSimon/Icon.avif" width="75" height="75" align="center" alt="Evil Simon" /></a>
 	<img width="12" />
 	<a href="https://github.com/Aditya-Pandey-GH/Health-Elevator-Legacy"><img src="https://aditya-pandey.vercel.app/projects/websites/healthElev/Icon.avif" width="75" height="75" align="center" alt="Health Elevator" /></a>
