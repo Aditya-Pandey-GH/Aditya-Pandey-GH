@@ -102,6 +102,8 @@
 <div>
 	<a href="https://aditya-pandey.vercel.app"><img src="https://aditya-pandey.vercel.app/favicon.svg" width="40" height="40" align="center" alt="Portfolio" /></a>
 	<img width="12" />
+	<a href="https://gamezoned.itch.io"><img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Logos/itch-io.svg" width="40" height="40" align="center" alt="GitHub" /></a>
+	<img width="12" />
 	<a href="https://github.com/Aditya-Pandey-GH"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/github.svg" width="40" height="40" align="center" alt="GitHub" /></a>
 	<img width="12" />
 	<a href="https://www.linkedin.com/in/aditya-pandey-in"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator@master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" align="center" alt="LinkedIn" /></a>
