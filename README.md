@@ -124,7 +124,8 @@
 <div align="justify">
 	<p>
 		<a href="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH">
-			<img src="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH" width="150" height="25" />
+<!-- 			<img src="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH" width="150" height="25" /> -->
+			<img src="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Aditya%20Pandey&color=blue&style=for-the-badge" alt="Aditya-Pandey-GH" width="150" height="25" />
 		</a>
 	</p>
 <!-- 	<p>
