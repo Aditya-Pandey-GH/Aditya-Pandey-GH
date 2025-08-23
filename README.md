@@ -1,5 +1,5 @@
 
-![Cover Photo](https://cdn.jsdelivr.net/gh/GameZonedYT/Logos/Cover-Arts/Cover-Art-GH.png)
+![Cover Photo](https://cdn.jsdelivr.net/gh/GameZonedYT/Logos/Banners/GitHub.png)
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aditya-Pandey-GH.Aditya-Pandey-GH) -->
 
 
@@ -100,7 +100,7 @@
 ## 🌐 Find Me At
 
 <div>
-	<a href="https://aditya-pandey.vercel.app"><img src="https://aditya-pandey.vercel.app/favicon.svg" width="40" height="40" align="center" alt="Portfolio" /></a>
+	<a href="https://aditya-pandey.vercel.app"><img src="https://aditya-pandey.vercel.app/favicon-round.png" width="40" height="40" align="center" alt="Portfolio" /></a>
 	<img width="12" />
 	<a href="https://gamezoned.itch.io"><img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@main/Logos/itch-io.svg" width="40" height="40" align="center" alt="GitHub" /></a>
 	<img width="12" />
