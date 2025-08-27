@@ -1,5 +1,5 @@
 
-![Cover Photo](https://cdn.jsdelivr.net/gh/GameZonedYT/Logos/Banners/GitHub.png)
+![Cover Photo](https://cdn.jsdelivr.net/gh/GameZonedYT/Logos/Banners/Main.png)
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aditya-Pandey-GH.Aditya-Pandey-GH) -->
 
 
