@@ -145,7 +145,8 @@
 	</p> -->
 	<p>
 		<a href="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-Pandey-GH&exclude_repo=Health-Elevator-Legacy&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-Pandey-GH&exclude_repo=Health-Elevator-Legacy&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact" alt="Skill Set of Aditya Pandey" />
+<!-- 			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-Pandey-GH&exclude_repo=Health-Elevator-Legacy&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact" alt="Skill Set of Aditya Pandey" /> -->
+			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-Pandey-GH&exclude_repo=Health-Elevator-Legacy&hide=css&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact" alt="Skill Set of Aditya Pandey" />
 		</a>
 	</p>
 </div>
