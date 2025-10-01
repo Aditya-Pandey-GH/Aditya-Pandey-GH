@@ -44,10 +44,10 @@
 
 <div>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" align="center" alt="MongoDB" />
-	<!-- <img width="12" />
+	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" align="center" alt="MySQL" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" align="center" alt="Oracle" />
+	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" align="center" alt="Oracle" />
 	<img width="12" /> -->
 </div>
 
