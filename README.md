@@ -124,32 +124,42 @@
 <div align="justify">
 	<p>
 		<a href="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH">
-<!-- 			<img src="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH" width="150" height="25" /> -->
 			<img src="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Aditya%20Pandey&color=blue&style=for-the-badge" alt="Aditya-Pandey-GH" width="210" height="35" />
 		</a>
 	</p>
-<!-- 	<p>
+</div>
+
+
+<!-- ## 📊 My Stats
+
+<div align="justify">
+	<p>
+		<a href="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH">
+			<img src="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Pandey-GH" width="150" height="25" />
+			<img src="https://komarev.com/ghpvc/?username=Aditya-Pandey-GH&label=Aditya%20Pandey&color=blue&style=for-the-badge" alt="Aditya-Pandey-GH" width="210" height="35" />
+		</a>
+	</p>
+	<p>
 		<a href="https://github-profile-trophy.vercel.app/?username=Aditya-Pandey-GH&theme=monokai&bg_color=151515&margin-w=15">
 			<img src="https://github-profile-trophy.vercel.app/?username=Aditya-Pandey-GH&theme=monokai&bg_color=151515&margin-w=15" alt="GitHub Trophies" />
 		</a>
-	</p> -->
+	</p>
 	<p>
 		<a href="https://streak-stats.demolab.com?user=Aditya-Pandey-GH&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D">
 			<img src="https://streak-stats.demolab.com?user=Aditya-Pandey-GH&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 		</a>
 	</p>
-<!-- 	<p>
+	<p>
 		<a href="https://github-readme-stats.vercel.app/api?username=Aditya-Pandey-GH&theme=gruvbox&bg_color=151515&custom_title=GitHub%20Stats&show_icons=true&locale=en">
 			<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Pandey-GH&theme=gruvbox&bg_color=151515&custom_title=GitHub%20Stats&show_icons=true&locale=en" alt="GitHub Stats of Aditya Pandey" />
 		</a>
-	</p> -->
+	</p>
 	<p>
 		<a href="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-Pandey-GH&exclude_repo=Health-Elevator-Legacy,AceHack3-HealthElevator&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact">
-<!-- 			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-Pandey-GH&exclude_repo=Health-Elevator-Legacy&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact" alt="Skill Set of Aditya Pandey" /> -->
 			<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-Pandey-GH&exclude_repo=Health-Elevator-Legacy&hide=css&theme=monokai&title_color=fff&bg_color=151515&show_icons=true&locale=en&layout=compact&langs_count=8" alt="Skill Set of Aditya Pandey" />
 		</a>
 	</p>
-</div>
+</div> -->
 
 
 ## ©️ Credits
