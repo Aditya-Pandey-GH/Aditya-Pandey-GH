@@ -1,6 +1,6 @@
 
 
-![Cover Photo](https://cdn.jsdelivr.net/gh/GameZonedYT/Logos/Banners/Main.png)
+![Cover Photo](https://iili.io/B0n7koN.png)
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aditya-Pandey-GH.Aditya-Pandey-GH) -->
 
 
