@@ -1,6 +1,6 @@
 
-
-![Cover Photo](https://imglink.cc/cdn/472qjcWVSM.png)
+<!-- ![Cover Photo](https://imglink.cc/cdn/472qjcWVSM.png) -->
+![Cover Photo](https://imglink.cc/cdn/DXt9s_wy8l.png)
 <!-- ![Cover Photo](https://iili.io/B0n7koN.png) -->
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aditya-Pandey-GH.Aditya-Pandey-GH) -->
 
