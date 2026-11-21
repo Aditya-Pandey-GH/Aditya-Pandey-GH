@@ -1,6 +1,6 @@
 
 <!-- ![Cover Photo](https://imglink.cc/cdn/472qjcWVSM.png) -->
-![Cover Photo](https://imglink.cc/cdn/DXt9s_wy8l.png)
+![Cover Photo](Files/BannerR.png)
 <!-- ![Cover Photo](https://iili.io/B0n7koN.png) -->
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aditya-Pandey-GH.Aditya-Pandey-GH) -->
 
@@ -50,7 +50,7 @@
 	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" align="center" alt="NextJS" /> -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" align="center" alt="ViteJS" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" align="center" alt="ReactJS" />
-<!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" align="center" alt="ExpressJS" /> -->
+	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" align="center" alt="ExpressJS" /> -->
 	<img src="https://cdn.jsdelivr.net/gh/GameZonedYT/Logos@latest/Logos/express.svg" width="40" height="40" align="center" alt="ExpressJS" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" align="center" alt="NodeJS" />
 	<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" align="center" alt="Flutter" /> -->
